@@ -1,0 +1,19 @@
+{
+  "name": "destiny2loadoutremix",
+  "version": "0.0.1",
+  "description": "Quickly switch between load outs in Destiny 2 without accessing the in-game equipment screen.",
+  "main": "app.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhamar/Destiny2LoadoutRemix.git"
+  },
+  "author": "Nathan Hamar",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/nhamar/Destiny2LoadoutRemix/issues"
+  },
+  "homepage": "https://github.com/nhamar/Destiny2LoadoutRemix#readme"
+}
